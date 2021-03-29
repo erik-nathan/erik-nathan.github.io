@@ -9,12 +9,12 @@
   }
   
   :root {
-    --main-color: #fea100;
+    --main-color: #00A8E8;
     --main-text-color: #FFF;
     --border-color: #dad7cd;
-    --bio-bg-color: #1e3b3d;
-    --bio-border-color: #fff0d7;
-    --about-bg-color: rgb(41, 63, 52);
+    --bio-bg-color: #011624;
+    --bio-border-color: #fff;
+    --about-bg-color: #003459;
   }
   
   /* General */
